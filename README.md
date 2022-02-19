@@ -4,7 +4,7 @@
  ## About me ##
 - 📚 I'm Computer engineering 
 - 🩺 I'm interested in image processing applied to medicine
-- 💻 I’m currently learning python and image processing and data
+- 💻 I’m currently learning python, image processing and Flutter for mobile development. 
 - ✔ I’m looking to collaborate on help other areas with using computer engineering 
 - 💪🏻 Pronouns: she/her
 - 🌈 LGBTQIA+
