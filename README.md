@@ -40,7 +40,7 @@
 <code><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"/></code>
 
 
-![Snake animation](https://github.com/BergamoLa/BergamoLa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BergamoLa/BergamoLa/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 BergamoLa/BergamoLa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
