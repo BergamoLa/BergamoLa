@@ -20,8 +20,8 @@
 
 ## Linguages and Tools ##
 
-![BergamoLa GitHub stats](https://github-readme-stats.vercel.app/api?username=BergamoLa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BergamoLa&show_icons=true&theme=radical&langs_count=10)](https://github.com/BergamoLa/github-readme-stats)
+![BergamoLa github stats](https://github-readme-stats.vercel.app/api?username=BergamoLa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BergamoLa)](https://github.com/BergamoLa/github-readme-stats)
 
 
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
