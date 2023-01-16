@@ -2,7 +2,7 @@
  👋  Hi, I’m Lais Bergamo 
  
  ## About me ##
-- 📚 I'm Computer engineering 
+- 📚 I'm Computer engineer
 - 💻 I'm currently learning python, geared towards backend development
 - ✔ I’m looking to collaborate on help other areas with using computer engineering 
 - 💪🏻 Pronouns: she/her
